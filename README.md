@@ -2,7 +2,7 @@
 
 ## **Виконані проєкти**
 ## 1. Аналіз опитувальника Stackoverflow за 2024 р. (Pandas, агрегація даних). Надано відповіді на наступні запитання:
-[Перегляньте код за цим посиланням](https://github.com/RomanHresko/Python/blob/main/1%20Pandas%20and%20data%20aggregation/Results%20of%20the%20developer%20survey.ipynb)
+[Перегляньте код за цим посиланням](https://github.com/RomanHresko/Python/blob/main/1%29%20Pandas%20and%20data%20aggregation/Results%20of%20the%20developer%20survey.ipynb)
 
 1. Кількість респондентів що пройшли опитування складає 65 437 .
 2. Кількість респондентів що відповіли на всі запитання - 6 306 .
