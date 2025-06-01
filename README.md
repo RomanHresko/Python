@@ -18,6 +18,7 @@
 
 
 ## 2. Очистка даних в Pandas та зведення рейтингу заявок користувачів 
+[Перегляньте код за цим посиланням](https://github.com/RomanHresko/Python/blob/main/2%29%20Data%20cleaning%20with%20Pandas/Cleaning%20data%20Pandas.ipynb)
 1. Прибрано дублікати, заповнено відсутні значення нулями, а також потрібним текстом.
 2.  Об'єднано дві таблиці
 3.  Пораховано рейтинг заявок згідно з потрібними умовами.
@@ -25,6 +26,7 @@
 5.  Застосовано групування за тижнем подачі заявки, і виведено таблицю середнього рейтингу прийнятих заявок для кожного тижня.
 
 ## 3. Pandas, Matplotlib, Seaborn 
+[Перегляньте код за цим посиланням](https://github.com/RomanHresko/Python/blob/main/3%29%20Pandas%2C%20Seaborn%2C%20Matplotlib/Pandas%2C%20Seaborn%2C%20Matplotlib.ipynb)
 1. Щоденна сумою витрат на рекламу в 2021 році .
 ![image](https://github.com/user-attachments/assets/3a8a4656-734a-4039-bc05-7f3b61ae94ec)
 
